@@ -11,8 +11,8 @@ html {
   width: 150px;
   height: 150px;
   padding: 10px;
-  background: tomato;
-  color: white;
+  background: tomato; /*backroundColor*/
+  color: white;    /*fontColor*/
   border: 10px solid red;
 }
 .content-box {
